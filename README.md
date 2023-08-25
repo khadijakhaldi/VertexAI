@@ -284,7 +284,7 @@ TL;DR
    1. Once the Notebook Instance is started click the "Open JupyterLab" link
    1. Clone This Repository to the Notebook Instance
       1. Use the Git Menu at the top or on the left navigation bar to select "Clone a Repository"
-      1. Provide the Clone URI of this repository: [https://github.com/statmike/vertex-ai-mlops.git](https://github.com/statmike/vertex-ai-mlops.git)
+      1. Provide the Clone URI of this repository: [https://github.com/khadijakhaldi/VertexAI.git](https://github.com/khadijakhaldi/VertexAI.git)
       1. In the File Browser you will now have the folder "vertex-ai-mlops" that contains the files from this repository
 1. Setup the Notebook Environment for these workflows
    1. Open the notebook vertex-ai-mlops/00 - Environment Setup
