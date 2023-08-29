@@ -297,4 +297,9 @@ Resources on these items:
 - [Create a Notebooks Instance](https://cloud.google.com/notebooks/docs/create-new)
 - [Open Notebooks](https://cloud.google.com/notebooks/docs/create-new#open_the_notebook_2)
 
+
+Source:
+
+https://github.com/statmike/vertex-ai-mlops
+
 ---
